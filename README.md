@@ -4,7 +4,7 @@
 
 CarSense helps a confused car buyer go from *"I have no idea what to buy"* to *"I'm confident about my shortlist"* in under 3 minutes. Instead of drowning buyers in filter dropdowns and spec sheets, it asks about their **life** — then uses AI to explain which cars fit, and why.
 
-**Live URL**: [insert deployment link]  
+**Live URL**: https://car-sense-pranav.netlify.app/ 
 **Screen Recording**: [insert Loom/YouTube link]
 
 ---
